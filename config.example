@@ -1,0 +1,23 @@
+{
+    # 更新成绩时是否自动选择难度
+    "auto_diff": true,
+    # 若auto_diff为true, 则依次尝试选择以下难度
+    "play": [
+        "at",
+        "in"
+    ],
+    # 随机选歌的过滤项, 为true则不会随机到此类歌曲
+    # old: 有成绩记录的 new: 无成绩记录的 phi: 已获得满分的
+    "rand_ignore": {
+        "old": false,
+        "new": false,
+        "phi": true
+    },
+    # show指令展示的难度列表
+    "show": [
+        "in",
+        "at"
+    ],
+    # 启动时是否显示提示
+    "show_tip": true
+}

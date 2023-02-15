@@ -1,0 +1,17 @@
+{
+    "auto_diff": true,
+    "rand_ignore": {
+        "old": false,
+        "new": false,
+        "phi": true
+    },
+    "play": [
+        "at",
+        "in"
+    ],
+    "show": [
+        "in",
+        "at"
+    ],
+    "show_tip": true
+}

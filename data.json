@@ -1,0 +1,2027 @@
+{
+    "version": "2.4.7",
+    "songs": [
+        {
+            "name": "-Arkhei-",
+            "ez": {
+                "diff": 55
+            },
+            "hd": {
+                "diff": 97
+            },
+            "in": {
+                "diff": 121
+            }
+        },
+        {
+            "name": "-SURREALISM-",
+            "ez": {
+                "diff": 46
+            },
+            "hd": {
+                "diff": 77
+            },
+            "in": {
+                "diff": 134
+            }
+        },
+        {
+            "name": "996",
+            "ez": {
+                "diff": 38
+            },
+            "hd": {
+                "diff": 81
+            },
+            "in": {
+                "diff": 145
+            }
+        },
+        {
+            "name": "After Dawn",
+            "ez": {
+                "diff": 42
+            },
+            "hd": {
+                "diff": 111
+            },
+            "in": {
+                "diff": 153
+            }
+        },
+        {
+            "name": "Aleph-0",
+            "ez": {
+                "diff": 45
+            },
+            "hd": {
+                "diff": 116
+            },
+            "in": {
+                "diff": 156
+            }
+        },
+        {
+            "name": "Another Me",
+            "ez": {
+                "diff": 17
+            },
+            "hd": {
+                "diff": 56
+            },
+            "in": {
+                "diff": 136
+            }
+        },
+        {
+            "name": "Another Me",
+            "ez": {
+                "diff": 48
+            },
+            "hd": {
+                "diff": 92
+            },
+            "in": {
+                "diff": 155
+            }
+        },
+        {
+            "name": "Another Round",
+            "ez": {
+                "diff": 32
+            },
+            "hd": {
+                "diff": 75
+            },
+            "in": {
+                "diff": 133
+            }
+        },
+        {
+            "name": "Aphasia",
+            "ez": {
+                "diff": 42
+            },
+            "hd": {
+                "diff": 88
+            },
+            "in": {
+                "diff": 131
+            }
+        },
+        {
+            "name": "Apocalypse",
+            "ez": {
+                "diff": 38
+            },
+            "hd": {
+                "diff": 86
+            },
+            "in": {
+                "diff": 135
+            }
+        },
+        {
+            "name": "Apocalyptic",
+            "ez": {
+                "diff": 32
+            },
+            "hd": {
+                "diff": 96
+            },
+            "in": {
+                "diff": 134
+            }
+        },
+        {
+            "name": "Ark",
+            "ez": {
+                "diff": 44
+            },
+            "hd": {
+                "diff": 109
+            },
+            "in": {
+                "diff": 149
+            }
+        },
+        {
+            "name": "Believe Light (feat. \u679c\u4e38\u54d2\u5466)",
+            "ez": {
+                "diff": 27
+            },
+            "hd": {
+                "diff": 95
+            },
+            "in": {
+                "diff": 145
+            }
+        },
+        {
+            "name": "Better Graphic Animation",
+            "ez": {
+                "diff": 64
+            },
+            "hd": {
+                "diff": 117
+            },
+            "in": {
+                "diff": 153
+            }
+        },
+        {
+            "name": "Bonus Time",
+            "ez": {
+                "diff": 47
+            },
+            "hd": {
+                "diff": 93
+            },
+            "in": {
+                "diff": 142
+            }
+        },
+        {
+            "name": "Brave Notes",
+            "ez": {
+                "diff": 56
+            },
+            "hd": {
+                "diff": 114
+            },
+            "in": {
+                "diff": 146
+            }
+        },
+        {
+            "name": "Break Over",
+            "ez": {
+                "diff": 51
+            },
+            "hd": {
+                "diff": 118
+            },
+            "in": {
+                "diff": 146
+            },
+            "at": {
+                "diff": 149
+            }
+        },
+        {
+            "name": "Break Through The Barrier",
+            "ez": {
+                "diff": 59
+            },
+            "hd": {
+                "diff": 108
+            },
+            "in": {
+                "diff": 149
+            }
+        },
+        {
+            "name": "Burn",
+            "ez": {
+                "diff": 42
+            },
+            "hd": {
+                "diff": 106
+            },
+            "in": {
+                "diff": 148
+            }
+        },
+        {
+            "name": "CROSS\u2020SOUL",
+            "ez": {
+                "diff": 77
+            },
+            "hd": {
+                "diff": 128
+            },
+            "in": {
+                "diff": 159
+            }
+        },
+        {
+            "name": "Cereris",
+            "ez": {
+                "diff": 69
+            },
+            "hd": {
+                "diff": 105
+            },
+            "in": {
+                "diff": 148
+            }
+        },
+        {
+            "name": "Cervelle Connexion",
+            "ez": {
+                "diff": 48
+            },
+            "hd": {
+                "diff": 113
+            },
+            "in": {
+                "diff": 145
+            }
+        },
+        {
+            "name": "Chronologika",
+            "ez": {
+                "diff": 37
+            },
+            "hd": {
+                "diff": 98
+            },
+            "in": {
+                "diff": 139
+            }
+        },
+        {
+            "name": "Chronomia",
+            "ez": {
+                "diff": 47
+            },
+            "hd": {
+                "diff": 104
+            },
+            "in": {
+                "diff": 153
+            }
+        },
+        {
+            "name": "Chronos Collapse - La Campanella",
+            "ez": {
+                "diff": 28
+            },
+            "hd": {
+                "diff": 106
+            },
+            "in": {
+                "diff": 159
+            }
+        },
+        {
+            "name": "Chronostasis",
+            "ez": {
+                "diff": 68
+            },
+            "hd": {
+                "diff": 116
+            },
+            "in": {
+                "diff": 159
+            }
+        },
+        {
+            "name": "Cipher : /2&//",
+            "ez": {
+                "diff": 68
+            },
+            "hd": {
+                "diff": 108
+            },
+            "in": {
+                "diff": 147
+            }
+        },
+        {
+            "name": "Class Memories",
+            "ez": {
+                "diff": 45
+            },
+            "hd": {
+                "diff": 89
+            },
+            "in": {
+                "diff": 135
+            }
+        },
+        {
+            "name": "Clock Paradox",
+            "ez": {
+                "diff": 23
+            },
+            "hd": {
+                "diff": 58
+            },
+            "in": {
+                "diff": 126
+            }
+        },
+        {
+            "name": "Colorful Days\u266a",
+            "ez": {
+                "diff": 46
+            },
+            "hd": {
+                "diff": 71
+            },
+            "in": {
+                "diff": 127
+            }
+        },
+        {
+            "name": "Concvssion",
+            "ez": {
+                "diff": 41
+            },
+            "hd": {
+                "diff": 102
+            },
+            "in": {
+                "diff": 155
+            }
+        },
+        {
+            "name": "Credits",
+            "ez": {
+                "diff": 44
+            },
+            "hd": {
+                "diff": 104
+            },
+            "in": {
+                "diff": 137
+            }
+        },
+        {
+            "name": "Cthugha",
+            "ez": {
+                "diff": 72
+            },
+            "hd": {
+                "diff": 123
+            },
+            "in": {
+                "diff": 157
+            },
+            "at": {
+                "diff": 159
+            }
+        },
+        {
+            "name": "Dash",
+            "ez": {
+                "diff": 25
+            },
+            "hd": {
+                "diff": 57
+            },
+            "in": {
+                "diff": 117
+            }
+        },
+        {
+            "name": "DataErr0r",
+            "ez": {
+                "diff": 61
+            },
+            "hd": {
+                "diff": 116
+            },
+            "in": {
+                "diff": 146
+            }
+        },
+        {
+            "name": "Dead Soul",
+            "ez": {
+                "diff": 43
+            },
+            "hd": {
+                "diff": 117
+            },
+            "in": {
+                "diff": 144
+            }
+        },
+        {
+            "name": "Demiurge",
+            "ez": {
+                "diff": 14
+            },
+            "hd": {
+                "diff": 74
+            },
+            "in": {
+                "diff": 118
+            }
+        },
+        {
+            "name": "Demonkin",
+            "ez": {
+                "diff": 61
+            },
+            "hd": {
+                "diff": 107
+            },
+            "in": {
+                "diff": 137
+            }
+        },
+        {
+            "name": "Disorder",
+            "ez": {
+                "diff": 54
+            },
+            "hd": {
+                "diff": 98
+            },
+            "in": {
+                "diff": 147
+            }
+        },
+        {
+            "name": "Dlyrotz",
+            "ez": {
+                "diff": 65
+            },
+            "hd": {
+                "diff": 117
+            },
+            "in": {
+                "diff": 146
+            }
+        },
+        {
+            "name": "Don't Never Around",
+            "ez": {
+                "diff": 44
+            },
+            "hd": {
+                "diff": 117
+            },
+            "in": {
+                "diff": 156
+            }
+        },
+        {
+            "name": "Doppelganger",
+            "ez": {
+                "diff": 48
+            },
+            "hd": {
+                "diff": 94
+            },
+            "in": {
+                "diff": 148
+            }
+        },
+        {
+            "name": "Dreamland",
+            "ez": {
+                "diff": 52
+            },
+            "hd": {
+                "diff": 98
+            },
+            "in": {
+                "diff": 132
+            }
+        },
+        {
+            "name": "Drop It",
+            "ez": {
+                "diff": 38
+            },
+            "hd": {
+                "diff": 96
+            },
+            "in": {
+                "diff": 141
+            }
+        },
+        {
+            "name": "ENERGY SYNERGY MATRIX",
+            "ez": {
+                "diff": 59
+            },
+            "hd": {
+                "diff": 107
+            },
+            "in": {
+                "diff": 148
+            }
+        },
+        {
+            "name": "El Condor Pasa (Phigros Edit)",
+            "ez": {
+                "diff": 46
+            },
+            "hd": {
+                "diff": 125
+            },
+            "in": {
+                "diff": 155
+            }
+        },
+        {
+            "name": "Electron",
+            "ez": {
+                "diff": 37
+            },
+            "hd": {
+                "diff": 104
+            },
+            "in": {
+                "diff": 132
+            }
+        },
+        {
+            "name": "Eltaw",
+            "ez": {
+                "diff": 58
+            },
+            "hd": {
+                "diff": 105
+            },
+            "in": {
+                "diff": 144
+            }
+        },
+        {
+            "name": "End Me",
+            "ez": {
+                "diff": 58
+            },
+            "hd": {
+                "diff": 75
+            },
+            "in": {
+                "diff": 143
+            }
+        },
+        {
+            "name": "Engine x Start!! (melody mix)",
+            "ez": {
+                "diff": 47
+            },
+            "hd": {
+                "diff": 105
+            },
+            "in": {
+                "diff": 134
+            }
+        },
+        {
+            "name": "Eradication Catastrophe",
+            "ez": {
+                "diff": 35
+            },
+            "hd": {
+                "diff": 75
+            },
+            "in": {
+                "diff": 116
+            }
+        },
+        {
+            "name": "Eternal Snow",
+            "ez": {
+                "diff": 42
+            },
+            "hd": {
+                "diff": 88
+            },
+            "in": {
+                "diff": 135
+            }
+        },
+        {
+            "name": "FULi AUTO BUSTER",
+            "ez": {
+                "diff": 48
+            },
+            "hd": {
+                "diff": 86
+            },
+            "in": {
+                "diff": 147
+            }
+        },
+        {
+            "name": "FULi AUTO SHOOTER",
+            "ez": {
+                "diff": 41
+            },
+            "hd": {
+                "diff": 113
+            },
+            "in": {
+                "diff": 148
+            }
+        },
+        {
+            "name": "Feast\u8fdc\u4e1c\u4e4b\u5bb4",
+            "ez": {
+                "diff": 66
+            },
+            "hd": {
+                "diff": 119
+            },
+            "in": {
+                "diff": 153
+            }
+        },
+        {
+            "name": "Final Step!",
+            "ez": {
+                "diff": 59
+            },
+            "hd": {
+                "diff": 118
+            },
+            "in": {
+                "diff": 143
+            }
+        },
+        {
+            "name": "Find_Me",
+            "ez": {
+                "diff": 57
+            },
+            "hd": {
+                "diff": 105
+            },
+            "in": {
+                "diff": 144
+            }
+        },
+        {
+            "name": "Future Mind",
+            "ez": {
+                "diff": 53
+            },
+            "hd": {
+                "diff": 117
+            },
+            "in": {
+                "diff": 146
+            }
+        },
+        {
+            "name": "GOODBOUNCE",
+            "ez": {
+                "diff": 57
+            },
+            "hd": {
+                "diff": 116
+            },
+            "in": {
+                "diff": 144
+            }
+        },
+        {
+            "name": "GOODFORTUNE",
+            "ez": {
+                "diff": 73
+            },
+            "hd": {
+                "diff": 87
+            },
+            "in": {
+                "diff": 154
+            }
+        },
+        {
+            "name": "GOODRAGE",
+            "ez": {
+                "diff": 46
+            },
+            "hd": {
+                "diff": 78
+            },
+            "in": {
+                "diff": 158
+            }
+        },
+        {
+            "name": "GOODTEK",
+            "ez": {
+                "diff": 54
+            },
+            "hd": {
+                "diff": 108
+            },
+            "in": {
+                "diff": 142
+            }
+        },
+        {
+            "name": "GOODWORLD",
+            "ez": {
+                "diff": 32
+            },
+            "hd": {
+                "diff": 114
+            },
+            "in": {
+                "diff": 145
+            }
+        },
+        {
+            "name": "Get Back",
+            "ez": {
+                "diff": 66
+            },
+            "hd": {
+                "diff": 114
+            },
+            "in": {
+                "diff": 138
+            }
+        },
+        {
+            "name": "Get Ready!!",
+            "ez": {
+                "diff": 45
+            },
+            "hd": {
+                "diff": 87
+            },
+            "in": {
+                "diff": 135
+            }
+        },
+        {
+            "name": "Glaciaxion",
+            "ez": {
+                "diff": 11
+            },
+            "hd": {
+                "diff": 67
+            },
+            "in": {
+                "diff": 125
+            }
+        },
+        {
+            "name": "HAZARD",
+            "ez": {
+                "diff": 36
+            },
+            "hd": {
+                "diff": 109
+            },
+            "in": {
+                "diff": 147
+            }
+        },
+        {
+            "name": "Hardcore Kwaya",
+            "ez": {
+                "diff": 43
+            },
+            "hd": {
+                "diff": 92
+            },
+            "in": {
+                "diff": 146
+            }
+        },
+        {
+            "name": "Horizon Blue",
+            "ez": {
+                "diff": 65
+            },
+            "hd": {
+                "diff": 122
+            },
+            "in": {
+                "diff": 154
+            }
+        },
+        {
+            "name": "HumaN",
+            "ez": {
+                "diff": 56
+            },
+            "hd": {
+                "diff": 88
+            },
+            "in": {
+                "diff": 126
+            }
+        },
+        {
+            "name": "I Must Say No",
+            "ez": {
+                "diff": 26
+            },
+            "hd": {
+                "diff": 95
+            },
+            "in": {
+                "diff": 135
+            }
+        },
+        {
+            "name": "INFiNiTE ENERZY -Overdoze-",
+            "ez": {
+                "diff": 75
+            },
+            "hd": {
+                "diff": 124
+            },
+            "in": {
+                "diff": 146
+            },
+            "at": {
+                "diff": 163
+            }
+        },
+        {
+            "name": "Igallta",
+            "ez": {
+                "diff": 77
+            },
+            "hd": {
+                "diff": 127
+            },
+            "in": {
+                "diff": 156
+            },
+            "at": {
+                "diff": 167
+            }
+        },
+        {
+            "name": "Infinity Heaven",
+            "ez": {
+                "diff": 33
+            },
+            "hd": {
+                "diff": 84
+            },
+            "in": {
+                "diff": 136
+            }
+        },
+        {
+            "name": "Initialize",
+            "ez": {
+                "diff": 25
+            },
+            "hd": {
+                "diff": 72
+            },
+            "in": {
+                "diff": 116
+            }
+        },
+        {
+            "name": "JunXion Between Life And Death(VIP Mix)",
+            "ez": {
+                "diff": 32
+            },
+            "hd": {
+                "diff": 87
+            },
+            "in": {
+                "diff": 133
+            }
+        },
+        {
+            "name": "Kerberos",
+            "ez": {
+                "diff": 57
+            },
+            "hd": {
+                "diff": 124
+            },
+            "in": {
+                "diff": 154
+            }
+        },
+        {
+            "name": "Khronostasis Katharsis",
+            "ez": {
+                "diff": 52
+            },
+            "hd": {
+                "diff": 108
+            },
+            "in": {
+                "diff": 142
+            }
+        },
+        {
+            "name": "Leave All Behind",
+            "ez": {
+                "diff": 25
+            },
+            "hd": {
+                "diff": 64
+            },
+            "in": {
+                "diff": 127
+            }
+        },
+        {
+            "name": "Luminescent",
+            "ez": {
+                "diff": 57
+            },
+            "hd": {
+                "diff": 93
+            },
+            "in": {
+                "diff": 144
+            }
+        },
+        {
+            "name": "Lyrith -\u8ff7\u5bae\u30ea\u30ea\u30b9-",
+            "ez": {
+                "diff": 52
+            },
+            "hd": {
+                "diff": 116
+            },
+            "in": {
+                "diff": 159
+            },
+            "at": {
+                "diff": 163
+            }
+        },
+        {
+            "name": "MARENOL",
+            "ez": {
+                "diff": 19
+            },
+            "hd": {
+                "diff": 102
+            },
+            "in": {
+                "diff": 142
+            }
+        },
+        {
+            "name": "MOBILYS",
+            "ez": {
+                "diff": 48
+            },
+            "hd": {
+                "diff": 97
+            },
+            "in": {
+                "diff": 144
+            }
+        },
+        {
+            "name": "Magenta Potion",
+            "ez": {
+                "diff": 63
+            },
+            "hd": {
+                "diff": 113
+            },
+            "in": {
+                "diff": 145
+            }
+        },
+        {
+            "name": "Miracle Forest (VIP Mix)",
+            "ez": {
+                "diff": 26
+            },
+            "hd": {
+                "diff": 98
+            },
+            "in": {
+                "diff": 137
+            }
+        },
+        {
+            "name": "NO ONE YES MAN",
+            "ez": {
+                "diff": 55
+            },
+            "hd": {
+                "diff": 118
+            },
+            "in": {
+                "diff": 154
+            }
+        },
+        {
+            "name": "NYA!!!(Phigros ver.)",
+            "ez": {
+                "diff": 18
+            },
+            "hd": {
+                "diff": 86
+            },
+            "in": {
+                "diff": 129
+            }
+        },
+        {
+            "name": "Next Time",
+            "ez": {
+                "diff": 48
+            },
+            "hd": {
+                "diff": 92
+            },
+            "in": {
+                "diff": 126
+            }
+        },
+        {
+            "name": "Nhelv",
+            "ez": {
+                "diff": 17
+            },
+            "hd": {
+                "diff": 119
+            },
+            "in": {
+                "diff": 154
+            }
+        },
+        {
+            "name": "Nick of Time",
+            "ez": {
+                "diff": 44
+            },
+            "hd": {
+                "diff": 81
+            },
+            "in": {
+                "diff": 144
+            }
+        },
+        {
+            "name": "Non-Melodic Ragez(MUG Edit)",
+            "ez": {
+                "diff": 58
+            },
+            "hd": {
+                "diff": 105
+            },
+            "in": {
+                "diff": 158
+            }
+        },
+        {
+            "name": "On And On!!",
+            "ez": {
+                "diff": 51
+            },
+            "hd": {
+                "diff": 103
+            },
+            "in": {
+                "diff": 147
+            }
+        },
+        {
+            "name": "Orthodox",
+            "ez": {
+                "diff": 47
+            },
+            "hd": {
+                "diff": 106
+            },
+            "in": {
+                "diff": 142
+            }
+        },
+        {
+            "name": "Palescreen",
+            "ez": {
+                "diff": 56
+            },
+            "hd": {
+                "diff": 118
+            },
+            "in": {
+                "diff": 157
+            }
+        },
+        {
+            "name": "Parallel Retrogression (Game Ver.)",
+            "ez": {
+                "diff": 68
+            },
+            "hd": {
+                "diff": 107
+            },
+            "in": {
+                "diff": 144
+            }
+        },
+        {
+            "name": "Pixel Rebelz",
+            "ez": {
+                "diff": 45
+            },
+            "hd": {
+                "diff": 119
+            },
+            "in": {
+                "diff": 152
+            }
+        },
+        {
+            "name": "Pont des souvenirs",
+            "ez": {
+                "diff": 57
+            },
+            "hd": {
+                "diff": 107
+            },
+            "in": {
+                "diff": 152
+            }
+        },
+        {
+            "name": "Protoflicker",
+            "ez": {
+                "diff": 36
+            },
+            "hd": {
+                "diff": 106
+            },
+            "in": {
+                "diff": 152
+            }
+        },
+        {
+            "name": "RESSiSTANCE",
+            "ez": {
+                "diff": 61
+            },
+            "hd": {
+                "diff": 106
+            },
+            "in": {
+                "diff": 158
+            }
+        },
+        {
+            "name": "RIPPER",
+            "ez": {
+                "diff": 78
+            },
+            "hd": {
+                "diff": 112
+            },
+            "in": {
+                "diff": 152
+            }
+        },
+        {
+            "name": "Rainy Season",
+            "ez": {
+                "diff": 54
+            },
+            "hd": {
+                "diff": 107
+            },
+            "in": {
+                "diff": 144
+            }
+        },
+        {
+            "name": "Re_Nascence (Psystyle Ver.)",
+            "ez": {
+                "diff": 47
+            },
+            "hd": {
+                "diff": 114
+            },
+            "in": {
+                "diff": 146
+            }
+        },
+        {
+            "name": "Reimei",
+            "ez": {
+                "diff": 68
+            },
+            "hd": {
+                "diff": 119
+            },
+            "in": {
+                "diff": 151
+            }
+        },
+        {
+            "name": "Rrhar'il",
+            "ez": {
+                "diff": 72
+            },
+            "hd": {
+                "diff": 127
+            },
+            "in": {
+                "diff": 157
+            },
+            "at": {
+                "diff": 168
+            }
+        },
+        {
+            "name": "Rubbish Sorting",
+            "ez": {
+                "diff": 33
+            },
+            "hd": {
+                "diff": 94
+            },
+            "in": {
+                "diff": 128
+            }
+        },
+        {
+            "name": "SIGMA",
+            "ez": {
+                "diff": 48
+            },
+            "hd": {
+                "diff": 115
+            },
+            "in": {
+                "diff": 156
+            }
+        },
+        {
+            "name": "Sein",
+            "ez": {
+                "diff": 46
+            },
+            "hd": {
+                "diff": 92
+            },
+            "in": {
+                "diff": 149
+            }
+        },
+        {
+            "name": "Shadow",
+            "ez": {
+                "diff": 47
+            },
+            "hd": {
+                "diff": 103
+            },
+            "in": {
+                "diff": 145
+            },
+            "at": {
+                "diff": 159
+            }
+        },
+        {
+            "name": "Snow Desert",
+            "ez": {
+                "diff": 51
+            },
+            "hd": {
+                "diff": 96
+            },
+            "in": {
+                "diff": 136
+            }
+        },
+        {
+            "name": "Sparkle New Life",
+            "ez": {
+                "diff": 42
+            },
+            "hd": {
+                "diff": 92
+            },
+            "in": {
+                "diff": 124
+            }
+        },
+        {
+            "name": "Spasmodic",
+            "ez": {
+                "diff": 79
+            },
+            "hd": {
+                "diff": 126
+            },
+            "in": {
+                "diff": 152
+            },
+            "at": {
+                "diff": 164
+            }
+        },
+        {
+            "name": "Speed Up!",
+            "ez": {
+                "diff": 43
+            },
+            "hd": {
+                "diff": 103
+            },
+            "in": {
+                "diff": 143
+            }
+        },
+        {
+            "name": "Starduster",
+            "ez": {
+                "diff": 56
+            },
+            "hd": {
+                "diff": 114
+            },
+            "in": {
+                "diff": 151
+            }
+        },
+        {
+            "name": "Stasis",
+            "ez": {
+                "diff": 52
+            },
+            "hd": {
+                "diff": 111
+            },
+            "in": {
+                "diff": 155
+            },
+            "at": {
+                "diff": 164
+            }
+        },
+        {
+            "name": "Sultan Rage",
+            "ez": {
+                "diff": 39
+            },
+            "hd": {
+                "diff": 85
+            },
+            "in": {
+                "diff": 125
+            }
+        },
+        {
+            "name": "The Mountain Eater from MUSYNC",
+            "ez": {
+                "diff": 43
+            },
+            "hd": {
+                "diff": 91
+            },
+            "in": {
+                "diff": 144
+            }
+        },
+        {
+            "name": "Time to Night Sky (feat. Lee Yu Jin)",
+            "ez": {
+                "diff": 27
+            },
+            "hd": {
+                "diff": 91
+            },
+            "in": {
+                "diff": 136
+            }
+        },
+        {
+            "name": "Tr\u00e4ne",
+            "ez": {
+                "diff": 15
+            },
+            "hd": {
+                "diff": 67
+            },
+            "in": {
+                "diff": 145
+            }
+        },
+        {
+            "name": "Unorthodox Thoughts",
+            "ez": {
+                "diff": 47
+            },
+            "hd": {
+                "diff": 113
+            },
+            "in": {
+                "diff": 144
+            }
+        },
+        {
+            "name": "WATER",
+            "ez": {
+                "diff": 45
+            },
+            "hd": {
+                "diff": 94
+            },
+            "in": {
+                "diff": 136
+            }
+        },
+        {
+            "name": "Wavetapper",
+            "ez": {
+                "diff": 44
+            },
+            "hd": {
+                "diff": 69
+            },
+            "in": {
+                "diff": 138
+            }
+        },
+        {
+            "name": "Winter\u2191cube\u2193",
+            "ez": {
+                "diff": 67
+            },
+            "hd": {
+                "diff": 107
+            },
+            "in": {
+                "diff": 134
+            }
+        },
+        {
+            "name": "With You",
+            "ez": {
+                "diff": 35
+            },
+            "hd": {
+                "diff": 93
+            },
+            "in": {
+                "diff": 134
+            }
+        },
+        {
+            "name": "XING",
+            "ez": {
+                "diff": 55
+            },
+            "hd": {
+                "diff": 99
+            },
+            "in": {
+                "diff": 138
+            }
+        },
+        {
+            "name": "You are the Miserable",
+            "ez": {
+                "diff": 58
+            },
+            "hd": {
+                "diff": 117
+            },
+            "in": {
+                "diff": 146
+            },
+            "at": {
+                "diff": 158
+            }
+        },
+        {
+            "name": "[PRAW]",
+            "ez": {
+                "diff": 44
+            },
+            "hd": {
+                "diff": 118
+            },
+            "in": {
+                "diff": 149
+            }
+        },
+        {
+            "name": "c.s.q.n.",
+            "ez": {
+                "diff": 51
+            },
+            "hd": {
+                "diff": 126
+            },
+            "in": {
+                "diff": 157
+            }
+        },
+        {
+            "name": "cryout",
+            "ez": {
+                "diff": 43
+            },
+            "hd": {
+                "diff": 99
+            },
+            "in": {
+                "diff": 137
+            }
+        },
+        {
+            "name": "dB doll",
+            "ez": {
+                "diff": 13
+            },
+            "hd": {
+                "diff": 36
+            },
+            "in": {
+                "diff": 62
+            },
+            "at": {
+                "diff": 136
+            }
+        },
+        {
+            "name": "energy trixxx",
+            "ez": {
+                "diff": 43
+            },
+            "hd": {
+                "diff": 114
+            },
+            "in": {
+                "diff": 152
+            }
+        },
+        {
+            "name": "inferior",
+            "ez": {
+                "diff": 71
+            },
+            "hd": {
+                "diff": 79
+            },
+            "in": {
+                "diff": 146
+            }
+        },
+        {
+            "name": "life flashes before weeb eyes",
+            "ez": {
+                "diff": 66
+            },
+            "hd": {
+                "diff": 119
+            },
+            "in": {
+                "diff": 148
+            }
+        },
+        {
+            "name": "mechanted",
+            "ez": {
+                "diff": 27
+            },
+            "hd": {
+                "diff": 113
+            },
+            "in": {
+                "diff": 147
+            }
+        },
+        {
+            "name": "micro.wav",
+            "ez": {
+                "diff": 62
+            },
+            "hd": {
+                "diff": 107
+            },
+            "in": {
+                "diff": 145
+            }
+        },
+        {
+            "name": "modulus",
+            "ez": {
+                "diff": 37
+            },
+            "hd": {
+                "diff": 101
+            },
+            "in": {
+                "diff": 147
+            }
+        },
+        {
+            "name": "opia",
+            "ez": {
+                "diff": 54
+            },
+            "hd": {
+                "diff": 116
+            },
+            "in": {
+                "diff": 155
+            }
+        },
+        {
+            "name": "volcanic",
+            "ez": {
+                "diff": 73
+            },
+            "hd": {
+                "diff": 119
+            },
+            "in": {
+                "diff": 148
+            },
+            "at": {
+                "diff": 162
+            }
+        },
+        {
+            "name": "\u00c4ventyr",
+            "ez": {
+                "diff": 23
+            },
+            "hd": {
+                "diff": 94
+            },
+            "in": {
+                "diff": 137
+            }
+        },
+        {
+            "name": "\u03a0\u03bf\u03c3\u03b5\u03b9\u03b4\u03ce\u03bd",
+            "ez": {
+                "diff": 47
+            },
+            "hd": {
+                "diff": 84
+            },
+            "in": {
+                "diff": 128
+            }
+        },
+        {
+            "name": "\u03c1ars/ey",
+            "ez": {
+                "diff": 31
+            },
+            "hd": {
+                "diff": 113
+            },
+            "in": {
+                "diff": 147
+            }
+        },
+        {
+            "name": "\u3044\u3056\u3001\u53c2\u308a\u307e\u3059",
+            "ez": {
+                "diff": 41
+            },
+            "hd": {
+                "diff": 96
+            },
+            "in": {
+                "diff": 151
+            }
+        },
+        {
+            "name": "\u3082\u307a\u3082\u307a",
+            "ez": {
+                "diff": 34
+            },
+            "hd": {
+                "diff": 85
+            },
+            "in": {
+                "diff": 111
+            },
+            "at": {
+                "diff": 149
+            }
+        },
+        {
+            "name": "\u30b8\u30f3\u30b0\u30eb\u30d9\u30eb(Jingle Bell)",
+            "ez": {
+                "diff": 43
+            },
+            "hd": {
+                "diff": 72
+            },
+            "in": {
+                "diff": 145
+            }
+        },
+        {
+            "name": "\u4e07\u5428\u533f\u540d\u4fe1",
+            "ez": {
+                "diff": 57
+            },
+            "hd": {
+                "diff": 97
+            },
+            "in": {
+                "diff": 133
+            }
+        },
+        {
+            "name": "\u4e91\u5973\u5b69",
+            "ez": {
+                "diff": 28
+            },
+            "hd": {
+                "diff": 99
+            },
+            "in": {
+                "diff": 126
+            }
+        },
+        {
+            "name": "\u5149",
+            "ez": {
+                "diff": 49
+            },
+            "hd": {
+                "diff": 84
+            },
+            "in": {
+                "diff": 128
+            }
+        },
+        {
+            "name": "\u5927\u548c\u64ab\u5b50 -Wild Dances-",
+            "ez": {
+                "diff": 57
+            },
+            "hd": {
+                "diff": 118
+            },
+            "in": {
+                "diff": 148
+            }
+        },
+        {
+            "name": "\u5c0a\u5e2b \uff5eThe Guru\uff5e",
+            "ez": {
+                "diff": 36
+            },
+            "hd": {
+                "diff": 94
+            },
+            "in": {
+                "diff": 152
+            }
+        },
+        {
+            "name": "\u5f00\u5fc3\u75c5",
+            "ez": {
+                "diff": 37
+            },
+            "hd": {
+                "diff": 98
+            },
+            "in": {
+                "diff": 144
+            }
+        },
+        {
+            "name": "\u5fc3\u4e4b\u6240\u5411",
+            "ez": {
+                "diff": 44
+            },
+            "hd": {
+                "diff": 97
+            },
+            "in": {
+                "diff": 136
+            }
+        },
+        {
+            "name": "\u6708\u4e0b\u7f2d\u4e71",
+            "ez": {
+                "diff": 48
+            },
+            "hd": {
+                "diff": 94
+            },
+            "in": {
+                "diff": 148
+            }
+        },
+        {
+            "name": "\u671b\u5f71\u306e\u65b9\u821fSix",
+            "ez": {
+                "diff": 63
+            },
+            "hd": {
+                "diff": 129
+            },
+            "in": {
+                "diff": 157
+            }
+        },
+        {
+            "name": "\u685c\u6a39\u8857\u9053",
+            "ez": {
+                "diff": 36
+            },
+            "hd": {
+                "diff": 74
+            },
+            "in": {
+                "diff": 126
+            }
+        },
+        {
+            "name": "\u6df7\u4e71-Confusion",
+            "ez": {
+                "diff": 53
+            },
+            "hd": {
+                "diff": 114
+            },
+            "in": {
+                "diff": 148
+            }
+        },
+        {
+            "name": "\u6e38\u56ed\u5730",
+            "ez": {
+                "diff": 28
+            },
+            "hd": {
+                "diff": 77
+            },
+            "in": {
+                "diff": 132
+            }
+        },
+        {
+            "name": "\u72c2\u559c\u862d\u821e",
+            "ez": {
+                "diff": 68
+            },
+            "hd": {
+                "diff": 108
+            },
+            "in": {
+                "diff": 144
+            },
+            "at": {
+                "diff": 161
+            }
+        },
+        {
+            "name": "\u74f7\u5c81",
+            "ez": {
+                "diff": 36
+            },
+            "hd": {
+                "diff": 66
+            },
+            "in": {
+                "diff": 71
+            }
+        },
+        {
+            "name": "\u76cf\u8317",
+            "ez": {
+                "diff": 21
+            },
+            "hd": {
+                "diff": 43
+            },
+            "in": {
+                "diff": 133
+            }
+        },
+        {
+            "name": "\u83ef\u706f\u7231",
+            "ez": {
+                "diff": 55
+            },
+            "hd": {
+                "diff": 93
+            },
+            "in": {
+                "diff": 141
+            }
+        },
+        {
+            "name": "\u8424\u706b\u866b\u306e\u6028",
+            "ez": {
+                "diff": 43
+            },
+            "hd": {
+                "diff": 106
+            },
+            "in": {
+                "diff": 131
+            }
+        },
+        {
+            "name": "\u91cd\u751f",
+            "ez": {
+                "diff": 58
+            },
+            "hd": {
+                "diff": 93
+            },
+            "in": {
+                "diff": 146
+            }
+        },
+        {
+            "name": "\u96ea\u964d\u308a\u3001\u30e1\u30ea\u30af\u30ea",
+            "ez": {
+                "diff": 56
+            },
+            "hd": {
+                "diff": 93
+            },
+            "in": {
+                "diff": 153
+            }
+        },
+        {
+            "name": "\u9752\u4e18",
+            "ez": {
+                "diff": 56
+            },
+            "hd": {
+                "diff": 105
+            },
+            "in": {
+                "diff": 153
+            }
+        },
+        {
+            "name": "\u9752\u82bd",
+            "ez": {
+                "diff": 52
+            },
+            "hd": {
+                "diff": 108
+            },
+            "in": {
+                "diff": 147
+            }
+        },
+        {
+            "name": "\u98ce\u5c7f",
+            "ez": {
+                "diff": 59
+            },
+            "hd": {
+                "diff": 103
+            },
+            "in": {
+                "diff": 137
+            }
+        }
+    ]
+}
