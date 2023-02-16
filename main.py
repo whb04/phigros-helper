@@ -98,11 +98,11 @@ def update(id,cover):
         return
     global curid
     curid=id
-    cnt=0
-    for key in reversed(conf["play"]):
+    cnt=len(set(conf["play"])&set(song.keys()))
+    for key in conf["play"]:
         if key in song:
             p=song[key]
-            cnt+=1
+            break
     print("当前选择的歌曲:",f"[{key.upper()} {p['diff']//10}.{p['diff']%10}]",f"\033[0;33m{song['name']}\033[0m")
     if not conf["auto_diff"] or cnt>1:
         print("若要修改难度请输入难度, 否则直接回车")
