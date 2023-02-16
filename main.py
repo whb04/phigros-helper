@@ -144,7 +144,6 @@ def update(id,cover):
                     acc=acc.split(".")
                     if acc[1]=="":
                         acc[1]="00"
-                    print(acc[0],acc[1])
                     acc=int(acc[0])*100+int(acc[1])
                 else:
                     if len(acc)<4 or len(acc)>5:
@@ -159,6 +158,7 @@ def update(id,cover):
             except:
                 print("\033[0;31m准确率无效\033[0m")
                 return
+    upd_randlist()
     with open("data.json","w") as fp:
         json.dump(data,fp,indent=4)
 def clear():
