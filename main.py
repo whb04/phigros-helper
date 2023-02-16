@@ -16,7 +16,8 @@ tiptext=[f"这是一条 {version} 版本专属的提示~",
          "当前歌曲ID指上次查询或修改的歌曲的ID, 可以输入s查看",
          "许多常用命令都有简写, 通常是首字母",
          "输入准确率(acc)时小数点可省略(此时必须输入四到五位整数), 98.76% 98.76 9876 100. 10000 都是合法的输入",
-         "如果你想在更新成绩时手动选择难度, 请将config.json中的auto_diff设置为false"]
+         "如果你想在更新成绩时手动选择难度, 请将config.json中的auto_diff设置为false",
+         "如果输入指令为空, 会根据上一个指令自动猜测指令(r|s->u, m|u->r)"]
 curid=None
 nameid={}
 randlist=[]
@@ -37,8 +38,8 @@ def upd_randlist():
         old="score" in song or "acc" in song
         phi=False
         for key in conf["play"]:
-            if key in song and "score" in song[key]:
-                if song[key]["score"]==1000000:
+            if key in song :
+                if "score" in song[key] and song[key]["score"]==1000000:
                     phi=True
                 break
         if lim["old"] and old: continue
@@ -87,7 +88,7 @@ def show(id):
     curid=id
 def rand():
     global randlist
-    show(random.randint(1,len(randlist)))
+    show(random.choice(randlist))
 def update(id,cover):
     try:
         if id<1:
@@ -196,9 +197,22 @@ if conf["show_tip"]:
 upd_id()
 upd_randlist()
 print("启动成功, 输入 ? 获取帮助")
+ins=[""]
 while True:
     print("\033[0;36m>\033[0m",end=" ")
+    lastins=ins[0]
     op=input()
+    if op=="":
+        comp=True
+        match lastins:
+            case "r"|"s":
+                op="u"
+            case "m"|"u":
+                op="r"
+            case _:
+                comp=False
+        if comp:
+            print(f"\033[0;90m已自动补全为: {op}\033[0m")
     ins=op.split(' ')
     match ins[0]:
         case "backup"|"b":
@@ -243,5 +257,6 @@ while True:
                 update(curid,False)
         case _:
             print("未知指令, 输入 ? 获取帮助")
+            tip()
 
 # 计划: 新增、删除、修改歌曲信息; rks计算; 智能推荐; b19查询; 随机选歌黑/白名单; 完善list指令
