@@ -6,7 +6,7 @@ import sys
 
 version="1.0"
 tiptext=[f"这是一条 {version} 版本专属的提示~",
-         "本项目的仓库地址: https://github.com/whb04/phigros-helper"
+         "本项目的仓库地址: https://github.com/whb04/phigros-helper",
          "启动时及使用tip指令时会随机显示一条提示, 可以使用tips指令查看所有提示",
          "帮助中的竖线表示选择一个, 如help|h|?表示输入help或h或?都可以查看帮助",
          "帮助中尖括号中的内容表示必填, 方括号中的内容表示选填",
