@@ -107,7 +107,7 @@ def update(id,cover):
     print("当前选择的歌曲:",f"[{key.upper()} {p['diff']//10}.{p['diff']%10}]",f"\033[0;33m{song['name']}\033[0m")
     if not conf["auto_diff"] or cnt>1:
         print("若要修改难度请输入难度, 否则直接回车")
-        diff=input()
+        diff=input("> ")
         if diff!="":
             try:
                 diff=diff.lower()
@@ -116,7 +116,7 @@ def update(id,cover):
                 print("\033[0;31m难度无效\033[0m")
     print("若要更新分数请输入分数, 否则直接回车. 若您AP了, 可直接输入p")
     phi=False
-    score=input()
+    score=input("> ")
     if score!="":
         try:
             if score=="p" or score=="P":
@@ -137,7 +137,7 @@ def update(id,cover):
         p["acc"]=10000
     else:
         print("若要更新准确率请输入准确率, 否则直接回车")
-        acc=input()
+        acc=input("> ")
         if acc!="":
             try:
                 if acc[-1]=="%":
@@ -165,10 +165,10 @@ def update(id,cover):
         json.dump(data,fp,indent=4)
 def clear():
     print("是否要备份当前数据(y/n)")
-    if input()!="n":
+    if input("> ")!="n":
         backup()
     print("即将清除所有歌曲的成绩数据, 请确认(y/n)")
-    if input()!="y":
+    if input("> ")!="y":
         return
     for song in data["songs"]:
         for key in song:
@@ -257,6 +257,7 @@ while True:
                 update(curid,False)
         case _:
             print("未知指令, 输入 ? 获取帮助")
-            tip()
+            if conf["show_tip"]:
+                tip()
 
-# 计划: 新增、删除、修改歌曲信息; rks计算; 智能推荐; b19查询; 随机选歌黑/白名单; 完善list指令
+# 计划: 新增、删除、修改歌曲信息; rks计算; 智能推荐; b19查询; 随机选歌黑/白名单; 完善list指令; 完善random指令
