@@ -1,5 +1,5 @@
 {
-    "version": "2.4.7",
+    "version": "2.5.0",
     "songs": [
         {
             "name": "-Arkhei-",
@@ -16,10 +16,10 @@
         {
             "name": "-SURREALISM-",
             "ez": {
-                "diff": 46
+                "diff": 50
             },
             "hd": {
-                "diff": 77
+                "diff": 94
             },
             "in": {
                 "diff": 134
@@ -34,7 +34,7 @@
                 "diff": 81
             },
             "in": {
-                "diff": 145
+                "diff": 146
             }
         },
         {
@@ -52,22 +52,22 @@
         {
             "name": "Aleph-0",
             "ez": {
-                "diff": 45
+                "diff": 35
             },
             "hd": {
-                "diff": 116
+                "diff": 122
             },
             "in": {
-                "diff": 156
+                "diff": 157
             }
         },
         {
             "name": "Another Me",
             "ez": {
-                "diff": 17
+                "diff": 50
             },
             "hd": {
-                "diff": 56
+                "diff": 92
             },
             "in": {
                 "diff": 136
@@ -130,7 +130,7 @@
                 "diff": 96
             },
             "in": {
-                "diff": 134
+                "diff": 136
             }
         },
         {
@@ -142,7 +142,7 @@
                 "diff": 109
             },
             "in": {
-                "diff": 149
+                "diff": 151
             }
         },
         {
@@ -211,13 +211,13 @@
         {
             "name": "Break Through The Barrier",
             "ez": {
-                "diff": 59
+                "diff": 50
             },
             "hd": {
                 "diff": 108
             },
             "in": {
-                "diff": 149
+                "diff": 147
             }
         },
         {
@@ -247,10 +247,10 @@
         {
             "name": "Cereris",
             "ez": {
-                "diff": 69
+                "diff": 50
             },
             "hd": {
-                "diff": 105
+                "diff": 114
             },
             "in": {
                 "diff": 148
@@ -286,7 +286,7 @@
                 "diff": 47
             },
             "hd": {
-                "diff": 104
+                "diff": 111
             },
             "in": {
                 "diff": 153
@@ -295,10 +295,10 @@
         {
             "name": "Chronos Collapse - La Campanella",
             "ez": {
-                "diff": 28
+                "diff": 30
             },
             "hd": {
-                "diff": 106
+                "diff": 112
             },
             "in": {
                 "diff": 159
@@ -307,34 +307,34 @@
         {
             "name": "Chronostasis",
             "ez": {
-                "diff": 68
+                "diff": 60
             },
             "hd": {
-                "diff": 116
+                "diff": 112
             },
             "in": {
-                "diff": 159
+                "diff": 158
             }
         },
         {
             "name": "Cipher : /2&//",
             "ez": {
-                "diff": 68
+                "diff": 50
             },
             "hd": {
-                "diff": 108
+                "diff": 97
             },
             "in": {
-                "diff": 147
+                "diff": 144
             }
         },
         {
             "name": "Class Memories",
             "ez": {
-                "diff": 45
+                "diff": 50
             },
             "hd": {
-                "diff": 89
+                "diff": 104
             },
             "in": {
                 "diff": 135
@@ -397,10 +397,10 @@
                 "diff": 123
             },
             "in": {
-                "diff": 157
+                "diff": 156
             },
             "at": {
-                "diff": 159
+                "diff": 158
             }
         },
         {
@@ -478,13 +478,13 @@
         {
             "name": "Dlyrotz",
             "ez": {
-                "diff": 65
+                "diff": 50
             },
             "hd": {
-                "diff": 117
+                "diff": 94
             },
             "in": {
-                "diff": 146
+                "diff": 137
             }
         },
         {
@@ -505,7 +505,7 @@
                 "diff": 48
             },
             "hd": {
-                "diff": 94
+                "diff": 98
             },
             "in": {
                 "diff": 148
@@ -538,13 +538,13 @@
         {
             "name": "ENERGY SYNERGY MATRIX",
             "ez": {
-                "diff": 59
+                "diff": 50
             },
             "hd": {
-                "diff": 107
+                "diff": 115
             },
             "in": {
-                "diff": 148
+                "diff": 146
             }
         },
         {
@@ -592,7 +592,7 @@
                 "diff": 75
             },
             "in": {
-                "diff": 143
+                "diff": 141
             }
         },
         {
@@ -616,7 +616,7 @@
                 "diff": 75
             },
             "in": {
-                "diff": 116
+                "diff": 127
             }
         },
         {
@@ -733,10 +733,10 @@
                 "diff": 46
             },
             "hd": {
-                "diff": 78
+                "diff": 70
             },
             "in": {
-                "diff": 158
+                "diff": 157
             }
         },
         {
@@ -748,7 +748,7 @@
                 "diff": 108
             },
             "in": {
-                "diff": 142
+                "diff": 138
             }
         },
         {
@@ -784,7 +784,7 @@
                 "diff": 87
             },
             "in": {
-                "diff": 135
+                "diff": 137
             }
         },
         {
@@ -832,7 +832,7 @@
                 "diff": 122
             },
             "in": {
-                "diff": 154
+                "diff": 155
             }
         },
         {
@@ -934,16 +934,16 @@
                 "diff": 124
             },
             "in": {
-                "diff": 154
+                "diff": 155
             }
         },
         {
             "name": "Khronostasis Katharsis",
             "ez": {
-                "diff": 52
+                "diff": 50
             },
             "hd": {
-                "diff": 108
+                "diff": 116
             },
             "in": {
                 "diff": 142
@@ -985,7 +985,7 @@
                 "diff": 159
             },
             "at": {
-                "diff": 163
+                "diff": 162
             }
         },
         {
@@ -1099,10 +1099,10 @@
         {
             "name": "Non-Melodic Ragez(MUG Edit)",
             "ez": {
-                "diff": 58
+                "diff": 50
             },
             "hd": {
-                "diff": 105
+                "diff": 118
             },
             "in": {
                 "diff": 158
@@ -1117,7 +1117,7 @@
                 "diff": 103
             },
             "in": {
-                "diff": 147
+                "diff": 149
             }
         },
         {
@@ -1129,7 +1129,7 @@
                 "diff": 106
             },
             "in": {
-                "diff": 142
+                "diff": 143
             }
         },
         {
@@ -1165,7 +1165,19 @@
                 "diff": 119
             },
             "in": {
-                "diff": 152
+                "diff": 151
+            }
+        },
+        {
+            "name": "Poison AND\u00f7OR Affection",
+            "ez": {
+                "diff": 30
+            },
+            "hd": {
+                "diff": 90
+            },
+            "in": {
+                "diff": 155
             }
         },
         {
@@ -1207,7 +1219,7 @@
         {
             "name": "RIPPER",
             "ez": {
-                "diff": 78
+                "diff": 70
             },
             "hd": {
                 "diff": 112
@@ -1324,10 +1336,10 @@
                 "diff": 51
             },
             "hd": {
-                "diff": 96
+                "diff": 103
             },
             "in": {
-                "diff": 136
+                "diff": 133
             }
         },
         {
@@ -1345,16 +1357,13 @@
         {
             "name": "Spasmodic",
             "ez": {
-                "diff": 79
+                "diff": 70
             },
             "hd": {
                 "diff": 126
             },
             "in": {
                 "diff": 152
-            },
-            "at": {
-                "diff": 164
             }
         },
         {
@@ -1409,7 +1418,7 @@
             }
         },
         {
-            "name": "The Mountain Eater",
+            "name": "The Mountain Eater from MUSYNC",
             "ez": {
                 "diff": 43
             },
@@ -1453,7 +1462,19 @@
                 "diff": 113
             },
             "in": {
-                "diff": 144
+                "diff": 139
+            }
+        },
+        {
+            "name": "Upshift",
+            "ez": {
+                "diff": 50
+            },
+            "hd": {
+                "diff": 100
+            },
+            "in": {
+                "diff": 153
             }
         },
         {
@@ -1540,7 +1561,7 @@
                 "diff": 118
             },
             "in": {
-                "diff": 149
+                "diff": 151
             }
         },
         {
@@ -1600,7 +1621,7 @@
                 "diff": 71
             },
             "hd": {
-                "diff": 79
+                "diff": 75
             },
             "in": {
                 "diff": 146
@@ -1726,7 +1747,7 @@
                 "diff": 96
             },
             "in": {
-                "diff": 151
+                "diff": 148
             }
         },
         {
@@ -1742,6 +1763,18 @@
             },
             "at": {
                 "diff": 149
+            }
+        },
+        {
+            "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce\u30b7\u30c6\u30a3",
+            "ez": {
+                "diff": 50
+            },
+            "hd": {
+                "diff": 110
+            },
+            "in": {
+                "diff": 157
             }
         },
         {
@@ -1783,7 +1816,7 @@
         {
             "name": "\u5149",
             "ez": {
-                "diff": 49
+                "diff": 50
             },
             "hd": {
                 "diff": 84
@@ -1807,10 +1840,10 @@
         {
             "name": "\u5c0a\u5e2b \uff5eThe Guru\uff5e",
             "ez": {
-                "diff": 36
+                "diff": 60
             },
             "hd": {
-                "diff": 94
+                "diff": 116
             },
             "in": {
                 "diff": 152
@@ -1819,13 +1852,13 @@
         {
             "name": "\u5f00\u5fc3\u75c5",
             "ez": {
-                "diff": 37
+                "diff": 60
             },
             "hd": {
-                "diff": 98
+                "diff": 115
             },
             "in": {
-                "diff": 144
+                "diff": 142
             }
         },
         {
@@ -1873,7 +1906,7 @@
                 "diff": 74
             },
             "in": {
-                "diff": 126
+                "diff": 134
             }
         },
         {
@@ -1942,10 +1975,10 @@
         {
             "name": "\u83ef\u706f\u7231",
             "ez": {
-                "diff": 55
+                "diff": 60
             },
             "hd": {
-                "diff": 93
+                "diff": 96
             },
             "in": {
                 "diff": 141

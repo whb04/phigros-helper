@@ -1,15 +1,17 @@
 import json
 import random
-import re
+import requests
 import shutil
 import sys
+import os
 
-version="1.0"
+version="1.1"
 tiptext=[f"这是一条 {version} 版本专属的提示~",
          "本项目的仓库地址: https://github.com/whb04/phigros-helper",
          "启动时及使用tip指令时会随机显示一条提示, 可以使用tips指令查看所有提示",
          "帮助中的竖线表示选择一个, 如help|h|?表示输入help或h或?都可以查看帮助",
          "帮助中尖括号中的内容表示必填, 方括号中的内容表示选填",
+         "data.json存放了所有歌曲的信息(包括成绩记录)",
          "要根据曲名查询歌曲信息, 可以使用list和show指令",
          "歌曲ID是所有歌曲按名称排序的序号, 增加或删除歌曲可能会改变其他歌曲的ID",
          "可以在README.md中查看修改设置的方法",
@@ -17,12 +19,13 @@ tiptext=[f"这是一条 {version} 版本专属的提示~",
          "许多常用命令都有简写, 通常是首字母",
          "输入准确率(acc)时小数点可省略(此时必须输入四到五位整数), 98.76% 98.76 9876 100. 10000 都是合法的输入",
          "如果你想在更新成绩时手动选择难度, 请将config.json中的auto_diff设置为false",
-         "如果输入指令为空, 会根据上一个指令自动猜测指令(r|s->u, m|u->r)"]
+         "如果输入指令为空, 会根据上一个指令自动猜测指令(r|s->u, m|u->r)",
+         "歌曲定数信息来源于萌娘百科, 不保证完全正确, 可以自行在data.json中修改"]
 curid=None
 nameid={}
 randlist=[]
 
-def upd_id():
+def init():
     cnt=0
     global nameid
     nameid={}
@@ -30,6 +33,9 @@ def upd_id():
     for song in data["songs"]:
         cnt+=1
         nameid[song["name"]]=cnt
+    upd_randlist()
+    with open("data.json","w") as f:
+        json.dump(data,f,indent=4)
 def upd_randlist():
     global randlist
     randlist=[]
@@ -51,6 +57,7 @@ def help():
     print("backup|b    # 备份当前数据到data.json.bak")
     print("clear    # 清除所有歌曲的成绩数据")
     print("help|h|?    # 查看指令帮助")
+    print("import    # 导入歌曲列表, 并保留成绩记录")
     print("list|l [key]    # 列出所有名称中含有key的歌曲, 若不填则列出所有歌曲")
     print("modify|m [歌曲ID]    # 修改当前或指定ID歌曲的成绩(覆盖原有的)")
     print("random|r    # 随机抽取一首歌")
@@ -163,6 +170,46 @@ def update(id,cover):
     upd_randlist()
     with open("data.json","w") as fp:
         json.dump(data,fp,indent=4)
+def imp():
+    global data
+    print("即将导入歌曲列表, 现有成绩记录将会保留")
+    print("请输入文件名以从文件导入, 或输入auto以从网页自动导入")
+    filename=input("> ")
+    if filename=="auto":
+        print("正在从网页读取数据...")
+        try:
+            r=requests.get("https://raw.githubusercontent.com/whb04/phigros-helper/main/data.json")
+            r.raise_for_status()
+        except:
+            print("\033[0;31m读取失败\033[0m")
+            return
+        r=r.text
+        print("读取成功")
+    else:
+        try:
+            with open(filename,"r") as fp:
+                r=fp.read()
+        except:
+            print("\033[0;31m读取失败\033[0m")
+            return
+        print("读取成功")    
+    newdata=json.loads(r)
+    print(f"数据版本变化: {data['version']} -> {newdata['version']} , 是否确认(y/n)")
+    if input("> ")!="y":
+        return
+    for newsong in newdata["songs"]:
+        if newsong["name"] in nameid:
+            song=data["songs"][nameid[newsong["name"]]-1]
+            for key in newsong:
+                if key in song and "score" in song[key]:
+                    newsong[key]["score"]=song[key]["score"]
+                if key in song and "acc" in song[key]:
+                    newsong[key]["acc"]=song[key]["acc"]
+    data=newdata
+    init()
+    with open("data.json","w") as fp:
+        json.dump(data,fp,indent=4)
+    print("导入成功")
 def clear():
     print("是否要备份当前数据(y/n)")
     if input("> ")!="n":
@@ -186,6 +233,7 @@ def stop():
     sys.exit()
 
 print(f"\033[1;36mPhigros Helper {version}\033[0m")
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 with open("config.json") as fp:
     conf=json.load(fp)
 print(f"读取配置成功")
@@ -194,8 +242,7 @@ with open("data.json") as fp:
 print(f"读取曲目列表成功, 版本为 {data['version']}")
 if conf["show_tip"]:
     print(f"Tip: {random.sample(tiptext,1)[0]}")
-upd_id()
-upd_randlist()
+init()
 print("启动成功, 输入 ? 获取帮助")
 ins=[""]
 while True:
@@ -221,6 +268,8 @@ while True:
             clear()
         case "help"|"h"|"?":
             help()
+        case "import":
+            imp()
         case "list"|"l":
             if len(ins)>1:
                 showlist(ins[1])
