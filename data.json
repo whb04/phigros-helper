@@ -1,5 +1,5 @@
 {
-    "version": "2.5.0",
+    "version": "2.5.1",
     "songs": [
         {
             "name": "-Arkhei-",
@@ -1241,6 +1241,18 @@
             }
         },
         {
+            "name": "Random",
+            "ez": {
+                "diff": 60
+            },
+            "hd": {
+                "diff": 111
+            },
+            "in": {
+                "diff": 147
+            }
+        },
+        {
             "name": "Re_Nascence (Psystyle Ver.)",
             "ez": {
                 "diff": 47
@@ -2021,6 +2033,18 @@
             },
             "in": {
                 "diff": 153
+            }
+        },
+        {
+            "name": "\u96f6\u865f\u8eca\u8f1b",
+            "ez": {
+                "diff": 70
+            },
+            "hd": {
+                "diff": 128
+            },
+            "in": {
+                "diff": 158
             }
         },
         {
