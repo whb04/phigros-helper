@@ -1,5 +1,5 @@
 {
-    "version": "2.5.1",
+    "version": "3.0.0",
     "songs": [
         {
             "name": "-Arkhei-",
@@ -377,6 +377,18 @@
             }
         },
         {
+            "name": "Crave Wave",
+            "ez": {
+                "diff": 35
+            },
+            "hd": {
+                "diff": 82
+            },
+            "in": {
+                "diff": 136
+            }
+        },
+        {
             "name": "Credits",
             "ez": {
                 "diff": 44
@@ -401,6 +413,21 @@
             },
             "at": {
                 "diff": 158
+            }
+        },
+        {
+            "name": "DESTRUCTION 3,2,1",
+            "ez": {
+                "diff": 70
+            },
+            "hd": {
+                "diff": 129
+            },
+            "in": {
+                "diff": 159
+            },
+            "at": {
+                "diff": 166
             }
         },
         {
@@ -473,6 +500,21 @@
             },
             "in": {
                 "diff": 147
+            }
+        },
+        {
+            "name": "Distorted Fate",
+            "ez": {
+                "diff": 75
+            },
+            "hd": {
+                "diff": 129
+            },
+            "in": {
+                "diff": 159
+            },
+            "at": {
+                "diff": 167
             }
         },
         {
@@ -962,6 +1004,18 @@
             }
         },
         {
+            "name": "Luminescence",
+            "ez": {
+                "diff": 50
+            },
+            "hd": {
+                "diff": 112
+            },
+            "in": {
+                "diff": 148
+            }
+        },
+        {
             "name": "Luminescent",
             "ez": {
                 "diff": 57
@@ -1277,6 +1331,18 @@
             }
         },
         {
+            "name": "Retribution",
+            "ez": {
+                "diff": 60
+            },
+            "hd": {
+                "diff": 116
+            },
+            "in": {
+                "diff": 158
+            }
+        },
+        {
             "name": "Rrhar'il",
             "ez": {
                 "diff": 72
@@ -1430,6 +1496,18 @@
             },
             "in": {
                 "diff": 125
+            }
+        },
+        {
+            "name": "The Chariot ~REVIIVAL~",
+            "ez": {
+                "diff": 50
+            },
+            "hd": {
+                "diff": 102
+            },
+            "in": {
+                "diff": 144
             }
         },
         {
@@ -2074,13 +2152,16 @@
         {
             "name": "\u98ce\u5c7f",
             "ez": {
-                "diff": 59
+                "diff": 60
             },
             "hd": {
                 "diff": 103
             },
             "in": {
                 "diff": 137
+            },
+            "at": {
+                "diff": 148
             }
         }
     ]
