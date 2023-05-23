@@ -1,5 +1,5 @@
 {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "songs": [
         {
             "name": "-Arkhei-",
@@ -179,6 +179,18 @@
             },
             "in": {
                 "diff": 142
+            }
+        },
+        {
+            "name": "Bougainvillea",
+            "ez": {
+                "diff": 40
+            },
+            "hd": {
+                "diff": 80
+            },
+            "in": {
+                "diff": 134
             }
         },
         {
@@ -1160,6 +1172,18 @@
             },
             "in": {
                 "diff": 158
+            }
+        },
+        {
+            "name": "Now Is The Time, Do It",
+            "ez": {
+                "diff": 40
+            },
+            "hd": {
+                "diff": 100
+            },
+            "in": {
+                "diff": 143
             }
         },
         {
