@@ -1,5 +1,5 @@
 {
-    "version": "3.0.1",
+    "version": "3.1.0",
     "songs": [
         {
             "name": "-Arkhei-",
@@ -35,6 +35,30 @@
             },
             "in": {
                 "diff": 146
+            }
+        },
+        {
+            "name": "A journey to the moonlight",
+            "ez": {
+                "diff": 45
+            },
+            "hd": {
+                "diff": 107
+            },
+            "in": {
+                "diff": 145
+            }
+        },
+        {
+            "name": "Ad astra per aspera",
+            "ez": {
+                "diff": 60
+            },
+            "hd": {
+                "diff": 121
+            },
+            "in": {
+                "diff": 158
             }
         },
         {
@@ -611,6 +635,18 @@
             },
             "in": {
                 "diff": 155
+            }
+        },
+        {
+            "name": "El \u00faltimo baile",
+            "ez": {
+                "diff": 50
+            },
+            "hd": {
+                "diff": 104
+            },
+            "in": {
+                "diff": 143
             }
         },
         {
@@ -1523,6 +1559,18 @@
             }
         },
         {
+            "name": "Temporal Shifting",
+            "ez": {
+                "diff": 40
+            },
+            "hd": {
+                "diff": 115
+            },
+            "in": {
+                "diff": 152
+            }
+        },
+        {
             "name": "The Chariot ~REVIIVAL~",
             "ez": {
                 "diff": 50
@@ -1556,6 +1604,18 @@
             },
             "in": {
                 "diff": 136
+            }
+        },
+        {
+            "name": "Trojan",
+            "ez": {
+                "diff": 45
+            },
+            "hd": {
+                "diff": 108
+            },
+            "in": {
+                "diff": 148
             }
         },
         {
@@ -2087,6 +2147,18 @@
             },
             "in": {
                 "diff": 133
+            }
+        },
+        {
+            "name": "\u795e\u8a71",
+            "ez": {
+                "diff": 40
+            },
+            "hd": {
+                "diff": 92
+            },
+            "in": {
+                "diff": 136
             }
         },
         {

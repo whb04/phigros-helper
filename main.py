@@ -237,7 +237,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 with open("config.json") as fp:
     conf=json.load(fp)
 print(f"读取配置成功")
-with open("data.json") as fp:
+with open("data.json","r",encoding="utf-8") as fp:
     data=json.load(fp)
 print(f"读取曲目列表成功, 版本为 {data['version']}")
 if conf["show_tip"]:
